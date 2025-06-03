@@ -1,0 +1,44 @@
+[general]
+name=Topomine
+category=Database
+
+description=Topomine plugin allows searching through French toponyms
+description[fr]=L'extension Topomine permet de rechercher des toponymes français
+
+about=Topomine allows to explore and visualise data related to toponymy in France from various databases,
+    including some IGN (French Mapping Agency) databases, FANTOIR database, SANDRE database and
+    Cassini database (EHESS).
+about[fr]=Topomine permet d'explorer et de visualiser des données relatives à la toponymie en France
+    à partir de différentes bases de données dont certaines de l'IGN (Institut national de l'information
+    géographique et forestière), la base FANTOIR, la base SANDRE (Service d'administration nationale des données
+    et référentiels sur l'eau) et la base Cassini (EHESS).
+
+tags=toponymy, search, France, Topomine, processing, database, PTM
+tags[fr]=toponymie, recherche,  France, Topomine, traitement, base de données, PTM
+
+hasProcessingProvider=True
+
+icon=resources/images/logo-topomine-pioche-128-corner.svg
+
+# credits and contact
+author=Eric Grosso (PTM), Eric Mermet (CNRS, PTM)
+email=ptm.outils+topomineqgis@gmail.com
+homepage=https://doc.ptm.huma-num.fr/topomine/
+repository=https://github.com/paristimemachine/ptm4qgis-topomine/
+tracker=https://github.com/paristimemachine/ptm4qgis-topomine/issues/
+help=https://doc.ptm.huma-num.fr/topomine/
+
+# QGIS metadata
+deprecated=False
+experimental=True
+qgisMinimumVersion=3.8
+qgisMaximumVersion=3.99
+supportsQt6=False
+
+# versioning
+version=0.1.0
+changelog=2025/06/03 v0.1.0 Initial version
+
+# Since QGIS 3.8, a comma separated list of plugins to be installed
+# (or upgraded) can be specified.
+# plugin_dependencies=

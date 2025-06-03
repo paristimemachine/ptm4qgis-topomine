@@ -1,0 +1,6 @@
+# Testing dependencies
+# --------------------
+
+packaging>=23
+pytest-cov>=4
+pytest-qgis>=2.1.0
