@@ -1,2 +1,1 @@
-# ptm4qgis-topomine
-Topomine plugin for QGIS
+# Topomine plugin for QGIS
