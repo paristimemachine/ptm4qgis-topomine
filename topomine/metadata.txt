@@ -33,6 +33,7 @@ deprecated=False
 experimental=False
 qgisMinimumVersion=3.4
 qgisMaximumVersion=3.99
+server=False
 supportsQt6=False
 
 # versioning
