@@ -30,14 +30,17 @@ help=https://doc.ptm.huma-num.fr/topomine/
 
 # QGIS metadata
 deprecated=False
-experimental=True
-qgisMinimumVersion=3.8
+experimental=False
+qgisMinimumVersion=3.4
 qgisMaximumVersion=3.99
 supportsQt6=False
 
 # versioning
 version=0.1.0
-changelog=2025/06/03 v0.1.0 Initial version
+changelog=
+    Version 0.1.0
+    - Initial version
+    - Generated with the QGIS Plugin templater
 
 # Since QGIS 3.8, a comma separated list of plugins to be installed
 # (or upgraded) can be specified.
