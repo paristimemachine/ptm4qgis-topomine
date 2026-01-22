@@ -10,9 +10,9 @@ Visit the online version of Topomine at <https://app.ptm.huma-num.fr/topomine/>.
 
 ## Documentation
 
-Documentation (in French only for now) is available at <https://doc.ptm.huma-num.fr/topomine/>.
+Documentation is available (currently in French only) at <https://doc.ptm.huma-num.fr/topomine/>.
 
-Topomine is described in detail in this [article](https://shs.hal.science/halshs-03931476).
+For a detailed description of Topomine, please refer to this [article](https://shs.hal.science/halshs-03931476).
 
 ## License
 
